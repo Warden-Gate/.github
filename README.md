@@ -21,3 +21,8 @@ Warden integrates an immutable Solana Smart Contract with the x402 payment proto
 - Smart Contracts: Anchor / Rust
 - Payment Protocol: x402 (HTTP 402 "Payment Required" standard)
 - Server: Node.js / Express (for the API middleware/Facilitator)
+
+### Links
+- Repo: https://github.com/Warden-Gate/Warden
+- Demo: https://warden-demo.vercel.app/
+- X: https://x.com/warden_gate
