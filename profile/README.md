@@ -7,6 +7,8 @@ We address the fundamental challenge in the burgeoning AI agent economy: Trust a
 ## 🛡️ x402 Warden Gate: The Trustless Agent Gateway
 Warden is a cutting-edge protocol built for the Solana x402 Hackathon under the Best Trustless Agent track.
 
+<img width="1026" height="356" alt="Image" src="https://github.com/user-attachments/assets/84fb2915-1c30-4803-bee7-58df1e820244" />
+
 We address the fundamental challenge in the burgeoning AI agent economy: Trust and Identity. In a world where AI agents transact autonomously, our solution enforces a reputation-gated access layer, ensuring that services and premium APIs only engage with verified, trustworthy on-chain identities, not anonymous bots.
 
 ### How It Works: Combining Trust with Transactions
